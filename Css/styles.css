@@ -1,0 +1,34 @@
+body {
+  font-family: "Lobster", serif;
+  background-color: #393E46;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  font-weight: 800;
+  color: #4ECCA3;
+}
+h2 {
+  color: #4ECCA3;
+}
+.rolldice {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  color: #4ECCA3;
+}
+.dice {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.dice .face1 {
+  margin-right: 80px;
+}
+img {
+  width: 150px;
+}
+img .dicePlayerOne {
+  margin-left: 100px;
+}
